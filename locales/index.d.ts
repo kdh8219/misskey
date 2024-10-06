@@ -8538,6 +8538,10 @@ export interface Locale extends ILocale {
          * 今日誕生日のユーザー
          */
         "birthdayFollowings": string;
+				/**
+				 * Snowflake
+				 */
+				"snowflake": string;
     };
     "_cw": {
         /**

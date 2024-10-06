@@ -2191,6 +2191,7 @@ _widgets:
     chooseList: "Select a list"
   clicker: "Clicker"
   birthdayFollowings: "Users who celebrate their birthday today"
+  snowflake: "Snowflake"
 _cw:
   hide: "Hide"
   show: "Show content"
